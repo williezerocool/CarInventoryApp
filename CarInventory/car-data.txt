@@ -1,0 +1,3 @@
+tesla|model s|2018|nice|good car|2017-07-26
+benz|s550|2009|coolCar|ok|2017-07-26
+corvette|z06|2016|fastCar|ok|2017-07-27
